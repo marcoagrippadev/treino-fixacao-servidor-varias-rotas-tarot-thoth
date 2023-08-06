@@ -1,0 +1,25 @@
+const arcanos = [
+  "O Louco",
+  "O Mago",
+  "A Sacerdotisa",
+  "A Imperatriz",
+  "O Imperador",
+  "O Hierofante",
+  " Os Amantes",
+  "A Carruagem",
+  "O Ermitão",
+  "A Fortuna",
+  "A Força",
+  "O Enforcado",
+  " A Morte",
+  "A Arte ",
+  " O Diabo",
+  "A Torre",
+  "A Estrela",
+  " A Lua",
+  "O Sol",
+  "O Aeon ",
+  " O Universo",
+];
+
+module.exports = arcanos;
